@@ -1,3 +1,3 @@
-n1 = float(input("Digite:"))
-n2 = float(input('tbm digt:'))
-ig = print(n1 + n2) 
+number1 = float(input("Digite:"))
+number2= float(input('tbm digt:'))
+ig = print(number1 + number2) 
